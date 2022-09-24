@@ -1,0 +1,46 @@
+*{
+    margin:0; 
+    padding:0;
+}
+.container {
+    background-image: url("./1923.png");
+    height: 1768px;
+    position: relative;
+}
+
+.text_h1 {
+    display: flex;
+}
+
+.h1_span {
+    font-size: 7vw;
+    margin: 50vh auto 0px auto;
+}
+
+.text_from {
+    /* width: 54%; */
+    margin-left: 11.8%;
+    /* margin: auto; */
+}
+
+.text_from_span {
+    font-size: 4vw;   
+}
+
+.white-sign-1 {
+    width: 10vw;
+    height: auto;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.img_container {
+    display: flex;
+    justify-content: end;
+    display: -webkit-flex;
+    -webkit-justify-content: flex-end;
+    /* bottom: 0; */
+    /* margin-top: 160vh; */
+    /* margin-right: 40px; */
+}
